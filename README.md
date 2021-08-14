@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @JonasTechicks
+- 👋 Hi, I’m @JonasTechiks
 - 👀 I’m interested in Programming with C#
 - 🌱 I’m currently learning Phyton and the NativeUI library.
