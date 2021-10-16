@@ -1,11 +1,2 @@
-Hello, I'm JonasTechnik and, I am a c# programmer that likes to work on small projects.
-I'm trying to learn python so I can create KIs and small robots.
-
-At this moment, I am searching for a project. When you need a programmer that can create programs in c#, choose me.
-
-
-
-
-E-Mail: tivertonijbtt@gmail.com
-
-Discord: Tivertoni#5322
+Hallo, mein Name ist Jonas und ich bin 13 Jahre alt.
+2019 habe ich angefangen mit c# zu programmieren, zuerst habe ich mit Unity spiele erstellt und danach erst angefangen mit Windows Forms apps zu erstellen. In laufe meiner Programmier Zeit habe ich viele sachen ausprobiert und bin zum entschluss gekommen dass ich hauptsächlich mit c# apps für den Computer programmiere. Zuzeit lerne ich Python da ich gerne auch mal ein KI programmieren will und auch hoffe durch Python mehr möglichkeiten zu kriegen.
